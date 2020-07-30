@@ -1,5 +1,5 @@
 # differentiateLang
-A JS script to differentiate characters from multiple languages.
+A vanilla JS script to differentiate characters from multiple languages.
 
 # Usage
 Clone the project, open the simple demo, testLang.html in browser.  
